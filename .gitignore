@@ -12,4 +12,7 @@
 **/*.run.xml
 **/*.toc
 **/auto
+*.fdb_latexmk
+*.fls
+*.synctex.gz
 
